@@ -9,7 +9,6 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 
 import static org.springframework.web.reactive.function.server.RequestPredicates.*;
 
-@Configuration
 public class PlayListRouter {
 
     @Bean
